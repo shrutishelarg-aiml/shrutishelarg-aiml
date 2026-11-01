@@ -15,7 +15,7 @@
 
 ## 🛠️ Skills
 
-* 💻 Programming: Python
+* 💻 Programming: Python, Java
 * 📊 Libraries: NumPy, Pandas, Scikit-learn
 * 📚 Concepts: Machine Learning, Data Analysis, NLP Basics
 * 🧰 Tools: Git, GitHub, Jupyter Notebook
